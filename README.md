@@ -1,4 +1,4 @@
-# Programacion
+# Programación
 
 Este repositorio almacena las prácticas realizadas durante el curso 2018/2019 para la asignatura [PROGRAMACIÓN (781000)](https://www.uah.es/es/estudios/estudios-oficiales/grados/asignatura/Programacion-781000/) del departamento Ciencias de la Computación de la Universidad de Alcalá.
 
